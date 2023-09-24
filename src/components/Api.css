@@ -1,0 +1,45 @@
+.CustomApi{
+    display: flex;
+    flex-direction: column;
+}
+.agent-list{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.CustomApih2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 40px;
+
+}
+
+.CustomApih2 h2{
+    text-transform: uppercase;
+    font-weight: 700 !important;
+    
+}
+
+.CustomImg{
+    margin: 0 20px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+.CustomButton{
+    display: flex;
+    justify-content: center;
+}
+
+.CustomButtonx{
+    background-color: transparent;
+    border: none;
+}
+
+.CustomIcon:hover{
+    transition: all 0.5s;
+    font-size: 20px;
+    color: red
+}

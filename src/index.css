@@ -1,0 +1,39 @@
+*{
+    font-family: 'Roboto Mono', monospace; 
+}
+
+.CustomLink{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+.CustomLink:hover{
+    color: #ff4655;
+    transition: all 1.5s;
+}
+
+.CustomNavbar{
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+
+}
+
+.CustomImg2{
+    margin-right: 15px;
+}
+
+.CustomSpace{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
